@@ -8,7 +8,7 @@ installation
 have subversion-tools installed
 * sudo apt-get install subversion-tools
 
-change directories in sv-backup
+change directories in svn-backup
 
 make script executeable 
 * chmod +x svn-backup
