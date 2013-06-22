@@ -1,4 +1,14 @@
 svnbackup
 =========
 
-a simple svn-backup using svn-hot-backup and copying it to a remote machine
+a simple script to backup svn repositories using svn-hot-backup and copying it to a remote machine
+
+installation
+========
+have subversion-tools installed
+* sudo apt-get install subversion-tools
+
+change directories in sv-backup
+
+make script executeable 
+* chmod +x svn-backup
